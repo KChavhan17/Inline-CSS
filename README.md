@@ -94,10 +94,13 @@ between cells for a clean look.
 ## 🟢 Live Status
 
 
-🔋 Space: Uses <br> to give the 
+🔋 Spacing: Employs the  `<br>`  
 
 
-status room to breathe.
+tag to provide essential vertical 
+
+
+padding.
 
 
 ✅ Active: Uses a Lime green dot 
