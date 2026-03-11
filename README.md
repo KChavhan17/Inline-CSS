@@ -1,64 +1,109 @@
-## INLINE CSS ## 🎨🖼️🖌️
+## INLINE CSS  🎨🖼️🖌️
 
 
 ## 🎨 Design
 
 
-⚫ Background: Sets the entire page to Black.
+⚫ Background: Sets the entire 
 
 
-⬜ Text: Changes all writing to a clean White color.
+page to Black.
 
 
-📦 Card: Creates a DarkSlateGray box with rounded corners.
+⬜ Text: Changes all writing to a
 
 
-🎯 Center: Moves the box and text to the middle of the screen.
+clean White color.
+
+
+📦 Card: Creates a DarkSlateGray 
+
+
+box with rounded corners.
+
+
+🎯 Center: Moves the box and text 
+
+
+to the middle of the screen.
 
 
 ## 🖼️ Profile Image
 
 
-⭕ Circle: Uses 50% radius to turn the square photo round.
+⭕ Circle: Uses 50% radius to turn 
 
 
-⚪ Border: Adds a thin white ring around your picture.
+the square photo round.
 
 
-💡 Background: Uses a white fill so the icon is easy to see.
+⚪ Border: Adds a thin white ring 
+
+
+around your picture.
+
+
+💡 Background: Uses a white fill 
+
+
+so the icon is easy to see.
 
 
 ## 📝 Information
 
 
-🏷️ Name: Uses <h1> for the largest, boldest text.
+🏷️ Name: Uses <h1> for the 
 
 
-📄 Bio: A simple paragraph explaining your role.
+largest, boldest text.
+
+
+📄 Bio: A simple paragraph 
+
+
+explaining your role.
 
 
 ## 📊 Skills Table
 
 
-📏 Grid: Keeps "Skill" and "Level" in perfectly straight columns.
+📏 Grid: Keeps "Skill" and "Level" 
 
 
-🟠 HTML: Specifically colored Orange to match the logo.
+in perfectly straight columns.
 
 
-🔵 CSS: Specifically colored DodgerBlue to match the logo.
+🟠 HTML: Specifically colored 
 
 
-🔘 Borders: Adds gray lines between cells for a clean look.
+Orange to match the logo.
+
+
+🔵 CSS: Specifically colored 
+
+
+DodgerBlue to match the logo.
+
+
+🔘 Borders: Adds gray lines 
+
+
+between cells for a clean look.
 
 
 ## 🟢 Live Status
 
 
-🔋 Space: Uses <br> to give the status room to breathe.
+🔋 Space: Uses <br> to give the 
 
 
-✅ Active: Uses a Lime green dot to show you are "Online."
+status room to breathe.
+
+
+✅ Active: Uses a Lime green dot 
+
+
+to show you are "Online."
 
 
 ## Live Demo (⁠◔⁠‿⁠◔⁠)
