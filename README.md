@@ -52,7 +52,7 @@ so the icon is easy to see.
 ## 📝 Information
 
 
-🏷️ Name: Uses <h1> for the 
+🏷️ Name: Uses  `<h1>`  for the 
 
 
 largest, boldest text.
